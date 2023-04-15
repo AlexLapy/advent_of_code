@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8258b11-e0d0-47fc-9c88-bd91dd4ffbee": {
+      "ProjectGuid": "a8258b11-e0d0-47fc-9c88-bd91dd4ffbee",
+      "DisplayName": "AdventOfCode2015",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
