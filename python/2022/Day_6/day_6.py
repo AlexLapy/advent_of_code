@@ -1,7 +1,4 @@
-
 from helper import my_helper
-from collections import defaultdict
-import re
 
 
 class Day_06():
@@ -9,11 +6,11 @@ class Day_06():
     def __init__(self):
         self.PuzzleInput = my_helper.ReadAllLine("Day_6/day_6.txt")
 
-    #
+    # 1833
     def PrintSolutionA(self):
         print(self.find_packet_marker())
 
-    #
+    # 3425
     def PrintSolutionB(self):
         print(self.find_messsage_marker())
 
